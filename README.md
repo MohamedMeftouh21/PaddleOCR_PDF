@@ -23,4 +23,6 @@
 ### Install PaddlePaddle  : 
 
   link : https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/quickstart_en.md#11-install-paddlepaddle
-         
+   
+   
+![alt text](Capture d’écran 2023-05-25 à 15.57.36.png)
