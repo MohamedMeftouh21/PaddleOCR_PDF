@@ -1,4 +1,4 @@
-# To convert the output image of PaddleOCR to a PDF document
+# To convert an image to a PDF document using the PaddleOCR library in Python
 
 
 ### Create a virtual environment :
