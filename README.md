@@ -24,5 +24,5 @@
 
   link : https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/quickstart_en.md#11-install-paddlepaddle
    
-     ![Alt Text]([Capture d’écran 2023-05-25 à 15.57.36.png](https://github.com/MohamedMeftouh21/PaddleOCR_PDF/blob/main/Capture%20d%E2%80%99e%CC%81cran%202023-05-25%20a%CC%80%2015.57.36.png))
+![Alt Text]([Capture d’écran 2023-05-25 à 15.57.36.png](https://github.com/MohamedMeftouh21/PaddleOCR_PDF/blob/main/Capture%20d%E2%80%99e%CC%81cran%202023-05-25%20a%CC%80%2015.57.36.png))
 
