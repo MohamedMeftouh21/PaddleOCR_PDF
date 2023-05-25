@@ -1,4 +1,4 @@
-# To convert the output of PaddleOCR to a PDF document
+# To convert the output image of PaddleOCR to a PDF document
 
 
 ### Create a virtual environment :
